@@ -1,5 +1,5 @@
 # WallpaperFreedom
-A project aimed at helping non-admin users change and cycle wallpapers in Win10/11 systems where corporate policies restrict wallpaper change. This will work for non-admin users and this application doesn't tamper with the system registry or any policy settings. The wallpaper change may not persist after a reboot, but you can run this applciation again to change the wallpaper.
+A project aimed at helping non-admin users change and cycle wallpapers in Win10/11 computers where corporate policies restrict wallpaper change. This will work for non-admin users and this application doesn't tamper with the system registry or any policy settings. The wallpaper change may not persist after a reboot, but you can run this applciation again to change the wallpaper.
 
 ## How to use 
 Download the release, and extract it into any folder. Edit the config file to indictae the folder where you keep your wallpaper files. Save the config file. Double click on the executable. You may also change the CycleTime value to set the time interval at which the application should switch to the next wallpaper available in that folder. If there's only one wallpaper file in the folder, this setting is not useful.
